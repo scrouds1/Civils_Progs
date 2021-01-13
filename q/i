@@ -1,8 +1,8 @@
   
 local args = {...}
-if string.lower(args[1]:sub(1,1)) = "d" then 
+if string.lower(args[1]:sub(1,1)) == "d" then 
   print(turtle.inspectDown())
-elseif string.lower(args[1]:sub(1,1)) = "u" then
+elseif string.lower(args[1]:sub(1,1)) == "u" then
   print(turtle.inspectUp())
 else
   print(turtle.inspect())
