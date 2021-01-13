@@ -1,0 +1,13 @@
+local args = {...}
+if tonumber(args[1]) ~= nil then
+	dist=args[1]
+else
+	dist=1
+end
+ 
+for i=1, dist do
+	while turtle.detectDown() do
+		turtle.digDown()
+	end
+	turtle.down()
+end
