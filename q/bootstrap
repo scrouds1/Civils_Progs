@@ -1,22 +1,22 @@
-shell.run(rm, skip.txt)
-shell.run(wget, https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/skip.txt, skip.txt)
-rm d
-wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/d d
-rm f
-wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/f f
-rm i
-wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/i i
-rm l
-wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/l l
-rm p
-wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/p p
-rm q
-wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/q q
-rm r
-wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/r r
-rm u
-wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/u u
-rm b
-wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/b b
-rm s
-wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/s s
+shell.run("rm", "skip.txt")
+shell.run("wget", "https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/skip.txt", "skip.txt")
+shell.run("rm", "d")
+shell.run("wget", "https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/d", "d")
+shell.run("shell.run("rm", "f")
+shell.run("wget", "https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/f", "f")
+shell.run("rm", "i")
+shell.run("wget", "https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/i", "i")
+shell.run("rm", "l")
+shell.run("wget", "https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/l", "l")
+shell.run("rm", "p")
+shell.run("wget", "https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/p", "p")
+shell.run("rm", "q")
+shell.run("wget", "https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/q", "q")
+shell.run("rm", "r")
+shell.run("wget", "https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/r", "r")
+shell.run("rm", "u")
+shell.run("wget", "https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/u", "u")
+shell.run("rm", "b")
+shell.run("wget", "https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/b", "b")
+shell.run("rm", "s")
+shell.run("wget", "https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/s", "s")
