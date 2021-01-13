@@ -1,0 +1,18 @@
+rm skip.txt
+wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/skip.txt skip.txt
+rm d
+wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/d d
+rm f
+wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/f f
+rm i
+wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/i i
+rm l
+wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/l l
+rm p
+wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/p p
+rm q
+wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/q q
+rm r
+wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/r r
+rm u
+wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/u u
