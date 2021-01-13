@@ -1,4 +1,8 @@
 local args = {...}
+if args[1] == nil then 
+  turtle.place()
+  break
+end
 if string.lower(args[1]:sub(1,1)) == "d" then 
   turtle.placeDown() 
 elseif string.lower(args[1]:sub(1,1)) == "u" then
