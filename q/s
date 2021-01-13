@@ -1,0 +1,11 @@
+local args = {...}
+if tonumber(args[1]) ~= nil then
+	slot=args[1]
+else
+	slot=1
+end
+
+if slot < 1 then dist = 1 end
+if slot > 16 then dist = 16 end
+
+turtle.select(slot)
