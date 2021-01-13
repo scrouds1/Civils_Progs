@@ -4,6 +4,8 @@ if tonumber(args[1]) ~= nil then
 else
 	dist=1
 end
+
+if dist < 1 then dist=1 end
  
 for i=1, dist do
 	while turtle.detectDown() do
