@@ -1,0 +1,9 @@
+local args = {...}
+if string.lower(args[1]:sub(1,1)) = "d" then 
+  turtle.placeDown() 
+elseif string.lower(args[1]:sub(1,1)) = "u" then
+  turtle.placeUp()
+else
+  turtle.place()
+end
+
