@@ -1,0 +1,10 @@
+minecraft:stone
+minecraft:gravel
+minecraft:cobblestone
+minecraft:dirt
+minecraft:netherrack
+natura:taintedsoil
+natura:heatsand
+minecraft:soulsand
+mysticalagriculture:soulstone
+mysticalagriculture:cobbledsoulstone
