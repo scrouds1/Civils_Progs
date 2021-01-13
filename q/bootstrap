@@ -1,5 +1,5 @@
-shell.run(rm skip.txt)
-shell.run(wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/skip.txt skip.txt)
+shell.run(rm, skip.txt)
+shell.run(wget, https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/skip.txt, skip.txt)
 rm d
 wget https://raw.githubusercontent.com/scrouds1/Civils_Progs/master/q/d d
 rm f
