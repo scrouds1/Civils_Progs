@@ -8,3 +8,4 @@ natura:heatsand
 minecraft:soulsand
 mysticalagriculture:soulstone
 mysticalagriculture:cobbledsoulstone
+biomesoplenty:ash_block
