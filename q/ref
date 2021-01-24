@@ -1,0 +1,4 @@
+while turtle.getFuelLevel() < turtle.getFuelLimit() - 1000 do
+	shell.run("refuel")
+	sleep(10)
+end
