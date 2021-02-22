@@ -1,8 +1,6 @@
 
 for i=1, 120 do
-	while turtle.detectDown() do
-		turtle.digDown()
-	end
+	turtle.digDown()
 	turtle.down()
 end
 
