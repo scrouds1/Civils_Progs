@@ -1,0 +1,15 @@
+
+for i=1, 120 do
+	while turtle.detectDown() do
+		turtle.digDown()
+	end
+	turtle.down()
+end
+
+for s=1, 3 do
+  turtle.select(s)
+  for x=1, 64 do  
+    turtle.up()
+    turtle.placeDown()
+  end
+end
