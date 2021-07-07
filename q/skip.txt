@@ -13,3 +13,6 @@ minecraft:clay
 create:limestone
 minecraft:andesite
 create:gabbro
+create:weatheredlimestone
+astralsorcery:marble
+quark:caveroot
