@@ -9,3 +9,7 @@ minecraft:soulsand
 mysticalagriculture:soulstone
 mysticalagriculture:cobbledsoulstone
 biomesoplenty:ash_block
+minecraft:clay
+create:limestone
+minecraft:andesite
+create:gabbro
